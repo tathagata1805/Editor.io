@@ -3,11 +3,7 @@
 ## Editor.io
 </div>
 
-## Online code editor for HTML, CSS and JavaScript to discover Frontend code and view them instantly
-
-<div align="center">
-  <img alt="Demo" src="./src/Assets/web.gif"/>
-</div>
+# Online code editor for HTML, CSS and JavaScript to discover Frontend code and view them instantly
 
 ### Features:
 
@@ -17,11 +13,7 @@
 - Autoclose of tags and brackets
 - Live Preview
 
-## Online Markdown editor for generating README Files
-
-<div align="center">
-  <img alt="Demo" src="./src/Assets/markdown.gif"/>
-</div>
+# Online Markdown editor for generating README Files
 
 ## Features
 
